@@ -8,10 +8,13 @@
 - [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/) ——关于statsd
 - [The Twelve-Factor App](https://12factor.net/) ——saas的一些方法论
 - [Events, Flows and Long-Running Services: A Modern Approach to Workflow Automation](https://www.infoq.com/articles/events-workflow-automation)
+- [Microservices a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)——左耳听风专栏第21章推荐
+- [The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/index.html)
+- [Sagas](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 
 
 
 #### 中文技术文章
 - [微博计数器的设计](http://blog.cydu.net/weidesign/2012/09/09/weibo-counter-service-design-2/)
-
+- [提问的智慧](http://doc.zengrong.net/smart-questions/cn.html)——原文是英文，这个是译文
 
